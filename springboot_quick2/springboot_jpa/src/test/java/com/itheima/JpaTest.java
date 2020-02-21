@@ -29,6 +29,7 @@ public class JpaTest {
         for (Customer customer : all) {
             System.out.println(customer);
             System.out.println("hahahahahahah");
+            System.out.println("我被修改啦");
         }
     }
 
