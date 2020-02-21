@@ -1,0 +1,14 @@
+package com.itheima.springboot_quick2;
+
+import org.junit.Test;
+
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringbootQuick2ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
