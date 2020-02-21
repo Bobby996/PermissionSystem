@@ -28,6 +28,7 @@ public class JpaTest {
         List<Customer> all = customerRepository.findAll();
         for (Customer customer : all) {
             System.out.println(customer);
+            System.out.println("hahahahahahah");
         }
     }
 
