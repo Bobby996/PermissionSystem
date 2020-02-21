@@ -1,9 +1,0 @@
-server:
-    port: 8082
-    servlet:
-      context-path: /hello
-
-person:
-  name: zhangsan
-  age: 18
-  address: beijing
